@@ -174,6 +174,10 @@ end bin_to_bcd ;
 **RADA TOHLE JE TEN BLOK, CO JSI DELAL TY, TAK HO POPIS (ZKUS U TOHO MIT STEJNY DESIGN JAK JA**)
 Write your text here.
 
+* Simulace modulu frequency_counter.vhd
+![simulation frequency counter](images/frequency_counter.png)
+![simulation frequency counter 2](images/frequency_counter_2.png)
+
 <a name="top"></a>
 ## TOP module description
 Modul *top.vhd* obsahuje všechny moduly. Jsou zde definovány vstupy a výstupy
